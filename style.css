@@ -69,7 +69,6 @@
     margin: 20px;
 }
 
-/* 🔥 GRID makes it perfectly responsive */
 .buttonparent{
     display: grid;
     grid-template-columns: repeat(4, 1 helps auto fit);
@@ -118,7 +117,7 @@
     font-size: 18px;
 }
 
-/* 📱 Mobile */
+/* Mobile */
 @media (max-width:480px){
 
     .child{
